@@ -9,8 +9,13 @@ For example:
 * Secure information must not be committed 
 * De-coupled Architecture
 
+Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
+
 ## Topics /  Areas
 
+- Personal
+    - Contantly learning
+    - What we know today might be wrong tomorrow - signs of a good developer...look back at code and see many ways to improve it
 - GitHub - code, issues, wiki, graphs & zenhub
 - When using an Open Source project
     - Before you use / add it as a dependency to composer/npm etc, have a good look
