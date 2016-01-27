@@ -9,9 +9,21 @@ For example:
 * Secure information must not be committed 
 * De-coupled Architecture
 
+---
+
+## What you will learn
+
+* Personal targets
+* How to use GitHub
+* What to look for when using an **Open Source** Project
+* Best Practices to include & cover in your **Open Source** Project
+
+
 Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
 
-## Topics /  Areas
+---
+
+## Topics /  Areas to cover
 
 - [ ] Introduction(s)
     - [ ] Background(s)
@@ -35,22 +47,19 @@ Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
             - [ ] 
         - [ ] Tests will be much simpler
         - [ ] Fork to have a copy
-        - [ ] If you need to make changes to the original, Fork and create a PR, use your Fork in your package manager (do not break your upstream so you can pull in their improvements - roject, must be easy for people to understand & navigate your project
+        - [ ] If you need to make changes to the original, Fork and create a PR, use your Fork in your package manager (do not break your upstream so you can pull in their improvements - project, must be easy for people to understand & navigate your project
     - [ ] Demo / Diagrams (flow / swim lanes / architecture)
     - [ ] Important documentation
         - [ ] README.md - installation instructions, faqs,
-        - [ ] CONTRIUBTION.md
+        - [ ] CONTRIBUTION.md
     - [ ] Repo
-        - [ ] Issues created by public, reply with comments
-        - [ ] Stars & Forks - the more you have the more likely you will get more (snow ball)
         - [ ] Branches
         - [ ] Releases
-        - [ ] Badges
     - [ ] Vagrant
         - [ ] No need to install dependencies manually
         - [ ] Correct versions - Java, PHP etc
         - [ ] Lower the barrier to entry
-    - [ ] Also good for future jobs / employers to see your work
+- [ ] Also good for future jobs / employers to see your work
 - [ ] Git flow's branching model
     - [ ] Branching is amazing, but must be short lived!
 - [ ] Automated tests
