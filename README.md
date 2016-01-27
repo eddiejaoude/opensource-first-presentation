@@ -59,6 +59,7 @@ Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
         - [ ] No need to install dependencies manually
         - [ ] Correct versions - Java, PHP etc
         - [ ] Lower the barrier to entry
+    - [ ] Never make changes to 3rd party source code in your project 
 - [ ] Also good for future jobs / employers to see your work
 - [ ] Git flow's branching model
     - [ ] Branching is amazing, but must be short lived!
