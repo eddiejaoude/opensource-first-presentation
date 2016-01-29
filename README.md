@@ -9,6 +9,10 @@ For example:
 * Secure information must not be committed 
 * De-coupled Architecture
 
+## Usage
+
+Visit deployed version for slides and press `s` to view speaker's notes.
+
 ---
 
 ## What you will learn
