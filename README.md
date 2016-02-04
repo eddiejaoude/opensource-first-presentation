@@ -54,7 +54,8 @@ Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
         - [ ] If you need to make changes to the original, Fork and create a PR, use your Fork in your package manager (do not break your upstream so you can pull in their improvements - project, must be easy for people to understand & navigate your project
     - [ ] Demo / Diagrams (flow / swim lanes / architecture)
     - [ ] Important documentation
-        - [ ] README.md - installation instructions, faqs,
+        - [ ] README.md - installation instructions, faqs
+            - [ ] Prioritise the order, similar to a trailer, need to capture user
         - [ ] CONTRIBUTION.md
     - [ ] Repo
         - [ ] Branches
