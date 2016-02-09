@@ -40,14 +40,17 @@ Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
 - [ ] When using an Open Source project
     - [ ] Before you use / add it as a dependency to composer/npm etc, have a good look
     - [ ] README - does it look like they know what they are doing? Installation etc
+    - [ ] Single (or few) massive commits
     - [ ] Stars / Forks
+    - [ ] Branches are important - dont want experiments in the mainline
+    - [ ] Should be using Releases not feature branches or master
     - [ ] Regular & recent useful commits (don’t want a dead/dying) project
     - [ ] Issues - have there been comments, bugs fixes etc
     - [ ] Pull Requests - have there been PRs accepted and rejected - rejected is also important
     - [ ] Automated tests! I won’t use a project that has no automated tests & CI
     - [ ] If you are unsure, de-couple your code from their code!
         - [ ] No inheritance
-        - [ ] Adapter design pattern
+        - [ ] Adapter design pattern & Interfaces
             - [ ] 
         - [ ] Tests will be much simpler
         - [ ] Fork to have a copy
@@ -76,3 +79,9 @@ Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
 - [ ] Releases (inc. Packages) & Changelog
 - [ ] CI (and maybe CD)
     - [ ] Static code analysis
+- [ ] Code will never be finished or perfect, but it can be still be great!
+    - [ ] Slow is smooth and smooth is fast!
+- [ ] What I look for when interviewing
+    - [ ] Active GitHub CVs go to the top of the list
+    - [ ] Teamwork & Collaboration
+    - [ ] Easy to read CV - spoon feeds me the information I need to see
