@@ -76,6 +76,9 @@ Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
     - [ ] BDD
     - [ ] This also helps with Architecture and smaller classes with Single Responsibility (eg. Adding Adapters)
     - [ ] DI - good for mocking & for using in de-coupled way
+    - [ ] When creating a Pull Request, CI will report back to GitHub, do NOT merge until this has gone green - more difficult to pull code out than to put them in
+    - [ ] Load testing / Soak testing
+    - [ ] Penetration testing
 - [ ] Releases (inc. Packages) & Changelog
 - [ ] CI (and maybe CD)
     - [ ] Static code analysis
