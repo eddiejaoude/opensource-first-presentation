@@ -29,11 +29,8 @@ And for revealjs remote control via [phone](http://remot.io)
 
 ---
 
-## Topics /  Areas to cover
+## Notes: Topics / Areas to cover
 
-- [ ] Introduction(s)
-    - [ ] Background(s)
-    - [ ] Few facts
 - [ ] Personal
     - [ ] Constantly learning
     - [ ] What we know today might be wrong tomorrow - signs of a good developer...look back at code and see many ways to improve it
@@ -82,6 +79,10 @@ And for revealjs remote control via [phone](http://remot.io)
     - [ ] Load testing / Soak testing
     - [ ] Penetration testing
 - [ ] Releases (inc. Packages) & Changelog
+- [ ] Hosting
+    - [ ] GitHub pages (static)
+    - [ ] Heroku for dynamic
+    - [ ] Dokku for private heroku
 - [ ] CI (and maybe CD)
     - [ ] Static code analysis
 - [ ] Code will never be finished or perfect, but it can be still be great!
