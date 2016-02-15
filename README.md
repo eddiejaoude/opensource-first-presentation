@@ -34,6 +34,7 @@ And for revealjs remote control via [phone](http://remot.io)
 - [ ] Personal
     - [ ] Constantly learning
     - [ ] What we know today might be wrong tomorrow - signs of a good developer...look back at code and see many ways to improve it
+    - [ ] You are here thats a good start
 - [ ] GitHub - code, issues, wiki, graphs & zenhub
     - [ ] Markdown quickstart - used for comments/wiki/pull requests
 - [ ] When using an Open Source project
