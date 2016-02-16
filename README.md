@@ -85,7 +85,10 @@ And for revealjs remote control via [phone](http://remot.io)
         * [ ] No need to install dependencies manually
         * [ ] Correct versions - Java, PHP etc
         * [ ] Lower the barrier to entry
-    * [ ] Never make changes to 3rd party source code in your project 
+    * [ ] Never make changes to 3rd party source code in your project
+* [ ] All participants Register on GitHub repo for the event
+    * [ ] One at a time, Fork repo & Create PR
+    * [ ] Two at the same time to create conflict
 * [ ] Also good for future jobs / employers to see your work
 * [ ] Git flow's branching model
     * [ ] Branching is amazing, but must be short lived!
