@@ -71,6 +71,11 @@ And for revealjs remote control via [phone](http://remot.io)
 * [ ] Also good for future jobs / employers to see your work
 * [ ] Git flow's branching model
     * [ ] Branching is amazing, but must be short lived!
+* [ ] Commits
+    * [ ] Include ticket number, create a ticket if doesnt exist
+    * [ ] Concise / Descriptive message
+    * [ ] Do not rewrite history even if not pushed, revert then you still have changes for the future
+    * [ ] Include 1 specific change / feature / fix per commit
 * [ ] Automated tests
     * [ ] Unit (ideally Spec) & code coverage (just a guidance)
     * [ ] BDD
