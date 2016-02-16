@@ -38,6 +38,7 @@ And for revealjs remote control via [phone](http://remot.io)
         * [ ] Community
             * [ ] Contribution - support, help, feedback, ideas, testing...
         * [ ] Quality is much higher
+    * [ ] With so many large & active communities it is easier to build your Applications & focus on your business logic
 * [ ] Personal traits of members
     * [ ] Constantly learning
     * [ ] What we know today might be wrong tomorrow - signs of a good developer...look back at code and see many ways to improve it
