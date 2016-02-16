@@ -31,10 +31,27 @@ And for revealjs remote control via [phone](http://remot.io)
 
 ## Notes: Topics / Areas to cover
 
-* [ ] Personal
+* [ ] What does Open Source mean to you?
+    * [ ] To me it means - a transparent community around the same code base and open for anyone to contribute / join etc.
+    * [ ] That continues to evolve and more forward as a community & individuals
+    * [ ] Benefits of Open Source
+        * [ ] Community
+            * [ ] Contribution - support, help, feedback, ideas, testing...
+        * [ ] Quality is much higher
+* [ ] Personal traits of members
     * [ ] Constantly learning
     * [ ] What we know today might be wrong tomorrow - signs of a good developer...look back at code and see many ways to improve it
-    * [ ] You are here thats a good start
+    * [ ] You come to events like this! So many dont and are missing out
+* [ ] Agile
+    * [ ] What you think your users want or will use is probably wrong
+    * [ ] Put something in front of them as soon as possible & get feedback (MVP)
+    * [ ] Small iterations
+        * [ ] Retrospective / Planning (past & future)
+        * [ ] Deploy & get feedback
+    * [ ] Setup hello world pipeline (eg. GitHub, TravisCI, Deployment)
+    * [ ] Quality is always high & production ready (unless prototype)
+        * [ ] Fixed date or fixed features, but not both!
+    * [ ] Complete the feature before moving on to the next - feature means something providing value
 * [ ] GitHub - code, issues, wiki, graphs & zenhub
     * [ ] Markdown quickstart - used for comments/wiki/pull requests
 * [ ] When using an Open Source project
