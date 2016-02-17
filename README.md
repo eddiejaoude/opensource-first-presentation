@@ -110,8 +110,14 @@ And for revealjs remote control via [phone](http://remot.io)
     * [ ] GitHub pages (static)
     * [ ] Heroku for dynamic
     * [ ] Dokku for private heroku
-* [ ] CI (and maybe CD)
+* [ ] CI (Continuous Integration)
+    * [ ] Triggered by any commit to any branch
+    * [ ] Run automated tests
     * [ ] Static code analysis
+    * [ ] Report back & notify
+    * [ ] Successful build create tag/release with artifacts
+* [ ] CD (Continuous Delivery)
+    * [ ] Successful build deploy out to relevant environment
 * [ ] Code will never be finished or perfect, but it can be still be great!
     * [ ] Slow is smooth and smooth is fast!
 * [ ] What I look for when interviewing
