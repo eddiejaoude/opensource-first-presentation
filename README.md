@@ -92,6 +92,7 @@ And for revealjs remote control via [phone](http://remot.io)
 * [ ] Also good for future jobs / employers to see your work
 * [ ] Git flow's branching model
     * [ ] Branching is amazing, but must be short lived!
+    * [ ] Also to contain everything for that feature - code, test, docs etc
 * [ ] Commits
     * [ ] Include ticket number, create a ticket if doesnt exist
     * [ ] Concise / Descriptive message
