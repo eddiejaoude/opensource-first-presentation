@@ -106,6 +106,10 @@ And for revealjs remote control via [phone](http://remot.io)
     * [ ] When creating a Pull Request, CI will report back to GitHub, do NOT merge until this has gone green - more difficult to pull code out than to put them in
     * [ ] Load testing / Soak testing
     * [ ] Penetration testing
+    * [ ] Test data
+        * [ ] Development - Sample data
+        * [ ] Test - Generated data, eg. Faker / Alice - generates data (name, address etc)
+        * [ ]
 * [ ] Releases (inc. Packages) & Changelog
 * [ ] Hosting
     * [ ] GitHub pages (static)
