@@ -123,6 +123,10 @@ And for revealjs remote control via [phone](http://remot.io)
     * [ ] Successful build create tag/release with artifacts
 * [ ] CD (Continuous Delivery)
     * [ ] Successful build deploy out to relevant environment
+* [ ] Searching for Answers - blog posts / stackoverflow
+    * [ ] Check the dates
+    * [ ] Not always the answer at the top is still valid, check for newer ones below
+    * [ ] Dont copy and paste - understand what it does, you might realise a better way
 * [ ] Code will never be finished or perfect, but it can be still be great!
     * [ ] Slow is smooth and smooth is fast!
 * [ ] What I look for when interviewing
