@@ -39,6 +39,7 @@ And for revealjs remote control via [phone](http://remot.io)
             * [ ] Contribution - support, help, feedback, ideas, testing...
         * [ ] Quality is much higher
     * [ ] With so many large & active communities it is easier to build your Applications & focus on your business logic
+    * [ ] Output is higher quality & to standards as they know their peers will be observing
 * [ ] Personal traits of members
     * [ ] Constantly learning
     * [ ] What we know today might be wrong tomorrow - signs of a good developer...look back at code and see many ways to improve it
@@ -104,6 +105,7 @@ And for revealjs remote control via [phone](http://remot.io)
     * [ ] This also helps with Architecture and smaller classes with Single Responsibility (eg. Adding Adapters)
     * [ ] DI - good for mocking & for using in de-coupled way
     * [ ] When creating a Pull Request, CI will report back to GitHub, do NOT merge until this has gone green - more difficult to pull code out than to put them in
+        * [ ] If branched from another Pull Request dont forget to update after the previous one is merged so that it can be more concise
     * [ ] Load testing / Soak testing
     * [ ] Penetration testing
     * [ ] Test data
