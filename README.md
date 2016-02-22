@@ -31,6 +31,8 @@ And for revealjs remote control via [phone](http://remot.io)
 
 ## Notes: Topics / Areas to cover
 
+GIFs to explain each section
+
 * [ ] What does Open Source mean to you?
     * [ ] To me it means - a transparent community around the same code base and open for anyone to contribute / join etc.
     * [ ] That continues to evolve and more forward as a community & individuals
@@ -55,6 +57,7 @@ And for revealjs remote control via [phone](http://remot.io)
         * [ ] Fixed date or fixed features, but not both!
     * [ ] Complete the feature before moving on to the next - feature means something providing value
 * [ ] GitHub - code, issues, wiki, graphs & zenhub
+    * [ ] Put GitHub logo up for this section
     * [ ] Markdown quickstart - used for comments/wiki/pull requests
 * [ ] When using an Open Source project
     * [ ] Before you use / add it as a dependency to composer/npm etc, have a good look
