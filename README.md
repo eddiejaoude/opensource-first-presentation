@@ -11,7 +11,15 @@ For example:
 
 ## Usage
 
-Visit deployed version for slides and press `s` to view speaker's notes.
+### Overview / Layout grid
+
+* Press `escape`
+* Navigate to slide
+* Press `enter` to select
+
+### Speaker notes
+
+* Visit deployed version of slides and press `s` to view speaker's view (inc. notes).
 
 ---
 
@@ -25,7 +33,7 @@ Visit deployed version for slides and press `s` to view speaker's notes.
 
 Using [RevealJS for Slides](https://github.com/hakimel/reveal.js)
 
-And for revealjs remote control via [phone](http://remot.io)
+And for *revealjs* remote control via [phone](http://remot.io)
 
 ---
 
@@ -42,6 +50,7 @@ GIFs to explain each section
         * [ ] Quality is much higher
     * [ ] With so many large & active communities it is easier to build your Applications & focus on your business logic
     * [ ] Output is higher quality & to standards as they know their peers will be observing
+    * [ ] Open Source Licensing
 * [ ] Personal traits of members
     * [ ] Constantly learning
     * [ ] What we know today might be wrong tomorrow - signs of a good developer...look back at code and see many ways to improve it
@@ -56,9 +65,14 @@ GIFs to explain each section
     * [ ] Quality is always high & production ready (unless prototype)
         * [ ] Fixed date or fixed features, but not both!
     * [ ] Complete the feature before moving on to the next - feature means something providing value
+* [ ] Git
 * [ ] GitHub - code, issues, wiki, graphs & zenhub
+    * [ ] Trending
+    * [ ] Not just code, government documents
+    * [ ] Beginner tags???
     * [ ] Put GitHub logo up for this section
-    * [ ] Markdown quickstart - used for comments/wiki/pull requests
+    * [ ] Markdown quickstart - used for comments/wiki/pull Requests
+    * [ ] Templates - Issue / Pull Requests
 * [ ] When using an Open Source project
     * [ ] Before you use / add it as a dependency to composer/npm etc, have a good look
     * [ ] README - does it look like they know what they are doing? Installation etc
@@ -140,4 +154,4 @@ GIFs to explain each section
     * [ ] Easy to read CV - spoon feeds me the information I need to see
 * [ ] Licensing
     * [ ] http://choosealicense.com
-
+* [ ] Conclusion
