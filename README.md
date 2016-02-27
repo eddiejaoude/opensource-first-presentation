@@ -155,3 +155,4 @@ GIFs to explain each section
 * [ ] Licensing
     * [ ] http://choosealicense.com
 * [ ] Conclusion
+    *  [ ] Open Source First
