@@ -106,6 +106,7 @@ GIFs to explain each section
     * [ ] Never make changes to 3rd party source code in your project
 * [ ] All participants Register on GitHub repo for the event
     * [ ] One at a time, Fork repo & Create PR
+    * [ ] Multiple PRs that have been branched off each other, they will need to be updated to show correct diff
     * [ ] Two at the same time to create conflict
 * [ ] Also good for future jobs / employers to see your work
 * [ ] Git flow's branching model
